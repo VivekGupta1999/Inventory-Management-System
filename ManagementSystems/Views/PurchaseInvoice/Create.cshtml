@@ -1,0 +1,14 @@
+﻿
+@{
+    ViewBag.Title = "Create";
+    Layout = "~/Views/Shared/_sidePanelPage.cshtml";
+}
+
+<h2>Purchase Invoice..</h2>
+
+@using(Html.BeginForm())
+{
+    @Html.Label("Date")<br/>
+    <input type="date" id="datePicker" name="datePicker"/><br/>
+    @Html.Label("Suppliers")<br />
+}

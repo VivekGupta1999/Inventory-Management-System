@@ -1,0 +1,22 @@
+* {
+  font-family: 'Segue UI Light';
+}
+body {
+  background-color: #fff;
+  padding-top: 50px;
+  padding-bottom: 20px;
+  font-family: 'Segue UI Light';
+}
+
+/* Set padding to keep content from hitting the edges */
+.body-content {
+  padding-left: 10px;
+  padding-right: 10px;
+  margin: 5%
+}
+
+
+.abc {
+  font-family: 'Segue UI Light';
+}
+
