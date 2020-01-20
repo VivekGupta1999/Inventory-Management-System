@@ -9,13 +9,13 @@ People with Different Roles have Different Acess Levels and permissions
                                       This is the main HomePage 
 ![](https://github.com/VivekGupta1999/Inventory-Management-System/blob/master/ManagementSystems/ss/2.PNG)
 
-                               This is the user Reister page where u can add more Users 
+                          This is the list of users right now with there various roles 
 ![](https://github.com/VivekGupta1999/Inventory-Management-System/blob/master/ManagementSystems/ss/3.PNG)
 
-                                This is the list of the users Right now u can Delete users from here
+                          This is the page where you can add details about the users
 ![](https://github.com/VivekGupta1999/Inventory-Management-System/blob/master/ManagementSystems/ss/4.PNG)
 
-                            
+                            Here you can Edit,Delete the details of the already registered Users
 ![](https://github.com/VivekGupta1999/Inventory-Management-System/blob/master/ManagementSystems/ss/5.PNG)
 ![](https://github.com/VivekGupta1999/Inventory-Management-System/blob/master/ManagementSystems/ss/6.PNG)
 ![](https://github.com/VivekGupta1999/Inventory-Management-System/blob/master/ManagementSystems/ss/7.PNG)
