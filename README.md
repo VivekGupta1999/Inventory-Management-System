@@ -1,7 +1,8 @@
 # Inventory-Management-System
 This is C# asp.net and was created in a Group of three people 
 Basically This App manages the inventory. In this app we can add Users their roles, Products and create invoices out of it.
-People with Different Roles have Different Acess Levels and permissions 
+People with Different Roles have Different Access Levels and permissions 
+The database i the syste is interconnecetd with foreign keys 
 
                                         This is the login Page 
 ![](https://github.com/VivekGupta1999/Inventory-Management-System/blob/master/ManagementSystems/ss/ss1.PNG)
@@ -17,9 +18,10 @@ People with Different Roles have Different Acess Levels and permissions
 
                            This is the list of roles that can be alloted to users 
 ![](https://github.com/VivekGupta1999/Inventory-Management-System/blob/master/ManagementSystems/ss/5.PNG)
-
+                                  Here You can add as much roles u want 
 ![](https://github.com/VivekGupta1999/Inventory-Management-System/blob/master/ManagementSystems/ss/6.PNG)
 
-                                  Here You can add as much roles u want 
+                            This is the list of Products  that can be alloted to users 
 ![](https://github.com/VivekGupta1999/Inventory-Management-System/blob/master/ManagementSystems/ss/7.PNG)
+                                You can add as much products you want
 ![](https://github.com/VivekGupta1999/Inventory-Management-System/blob/master/ManagementSystems/ss/8.PNG)
