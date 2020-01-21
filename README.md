@@ -18,7 +18,7 @@ People with Different Roles have Different Acess Levels and permissions
                            This is the list of roles that can be alloted to users 
 ![](https://github.com/VivekGupta1999/Inventory-Management-System/blob/master/ManagementSystems/ss/5.PNG)
 
-https://github.com/VivekGupta1999/Inventory-Management-System/blob/master/ManagementSystems/ss/6.PNG
+![](https://github.com/VivekGupta1999/Inventory-Management-System/blob/master/ManagementSystems/ss/6.PNG)
 
                                   Here You can add as much roles u want 
 ![](https://github.com/VivekGupta1999/Inventory-Management-System/blob/master/ManagementSystems/ss/7.PNG)
